@@ -17,12 +17,7 @@ import javax.swing.Timer;
 
 import bouncing_balls.Model.Ball;
 
-/**
- * Animated JPanel drawing the bouncing balls. No modifications are needed in this class.
- *
- * @author Simon Robillard
- *
- */
+
 @SuppressWarnings("serial")
 public final class Animator extends JPanel implements ActionListener {
 
@@ -35,24 +30,9 @@ public final class Animator extends JPanel implements ActionListener {
 		this.setPreferredSize(new Dimension(pixelWidth, pixelHeight));
 	}
 
-	/**
-	 * Drawing scale
-	 */
 	private static final double pixelsPerMeter = 200;
-
-	/**
-	 * Physical model
-	 */
 	private Model model;
-
-	/**
-	 * Timer that triggers redrawing
-	 */
 	private Timer timer;
-
-	/**
-	 * Time interval between redrawing, also used as time step for the model
-	 */
 	private double deltaT;
 
 	public void start() {

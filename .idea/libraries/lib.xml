@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Java/openjfx-18_windows-x64_bin-sdk.zip!/javafx-sdk-18/lib" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Java/openjfx-18_windows-x64_bin-sdk.zip!/javafx-sdk-18/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Java/openjfx-18_windows-x64_bin-sdk.zip!/javafx-sdk-18/lib" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Java/openjfx-18_windows-x64_bin-sdk.zip!/javafx-sdk-18/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Java/openjfx-18_windows-x64_bin-sdk.zip!/javafx-sdk-18/lib" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Java/openjfx-18_windows-x64_bin-sdk.zip!/javafx-sdk-18/lib" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Java/openjfx-18_windows-x64_bin-sdk.zip!/javafx-sdk-18/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
